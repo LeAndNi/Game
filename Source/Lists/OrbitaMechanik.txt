@@ -1,0 +1,28 @@
+-Körper?
+->Raumschiff = R1
+-Einflussbereich?
+->EinflussA 
+-Gravitationsfelder?
+->PlanetA; MondA
+
+-Position(R1) = (xr;yr)
+-v(R1) = (x;y)
+-Curve = 0
+
+-until Curve = 100 {
+
+-Punkt setzen = Position(R1)
+
+-Position(PlanetA) = (xpa;ypa)
+-Gravitation(PlanetA) = 9.81
+-v(PlanetA) = Gravitation(PlanetA)/((xpa-xr)²+(ypa-yr)²)
+
+-Position(MondA) = (xma;yma)
+-Gravitation(MondA) = 1.62
+-v(MondA) = Gravitation(MondA)/((xma-xr)²+(yma-yr)²)
+
+-v(R1) = v(R1)+v(PlanetA)+v(MondA)
+-Position(R1) = Position(R1)+v(R1)
+-Curve = Curve+1
+
+}

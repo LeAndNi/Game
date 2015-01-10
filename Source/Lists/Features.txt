@@ -1,0 +1,71 @@
+0 Planung
+-GitHub, TS
+-Steam?
+-Engine? Formate? Struktur?
+-Sprachen?
+
+1 Demo
+-Projektname
+-Hauptmenü/Optionen
+-Orbitalmechanik
+-Sonne, Planet und Mond
+-Atmosphärenmodell
+-Moddingfreundlichkeit/ Ordnerstruktur
+-Raumschiffsteuerung
+-GUI
+-Editor
+-grundlegende Parts (Rakete, Kommandomodul, Tanks, Triebwerke, (Torpedos))
+-Schadensmodelle für Konstruktionen (und Planeten?)
+-Speichermöglichkeit
+-Credits
+-(Musik)
+-(Gegnerspawn)
+-(grundlegende KI's)
+-(Seperates Infofenster)
+-(Debug/Cheatkonsole)
+-(Minimap)
+
+2 Publicity
+-Gameplay Trailer
+-Downloadserver und Downloader
+-Early Access (Steam?)
+-Fundraising
+-Internetseite
+-(Blog?)
+-Youtuber (Scott Manley)
+
+3 Economy
+-(Bessere Grafik/ Beleuchtung/ Hitzeeffekte)
+-Musik
+-Ressourcen (Geld, Material, Arbeitskraft,...) 
+-Gebäude (Fabriken, Startrampen, Urbane Zentren,planetare Verteidigung,...)
+-Kolonialsystem
+-(Umwelteinflüsse)
+-mehr Parts
+-Ressourcen für Raumschiffe (Lebenserhaltung, Fracht, Einheiten)
+-Timer
+-Orbitale Konstruktion (Space Dock; Freie Konstruktion)
+-(Asteroiden)
+-Docking/(Staging)
+-(bessere Orbitberechnung) und Vorhersage (Maneuverplaner)
+-Rotation von Raumschiffen mit einbeziehen
+-Autostabilisierung und Autopilot
+-(Kommunikationsnetzwerk)
+-(zerstörbare Umgebung?)
+-Mehr Planeten und Monde
+
+4 Fighting
+-Rasseneditor
+-Waffeneditor (u.a)
+-(Story)
+-Techtree (Mehr Parts und Gebäude)
+-Kreativere Waffen (Laser, Grav.Generator,...)
+-Andere Sonnensysteme
+-ernsthafte KI's; Aliens
+-(Bodenfahrzeuge)
+-Diplomatie
+-(Random generierte Sonnensysteme)
+-Kampfsystem (Flottenverbände, Shortcuts,...)
+
+5
+-Multiplayer
