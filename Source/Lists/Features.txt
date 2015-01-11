@@ -1,8 +1,8 @@
 0 Planung
--GitHub, TS
++GitHub, TS
 -Steam?
--Engine? Formate? Struktur?
--Sprachen?
++Engine? Formate? Struktur?
++Sprachen?
 
 1 Demo
 -Projektname
